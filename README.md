@@ -1,4 +1,4 @@
-# Tensorflow
+# Tensorflow with MNIST to recognize hand-written digits
 
 Using the hand-written digit database MNIST, create a machine learning model to recognize hand-written digits. By using Tensorflow, the model was trained to recognize digits by having it "look" at thousands of examples and check the model's accuracy with the test data.
 
